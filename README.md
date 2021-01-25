@@ -1,3 +1,3 @@
 # s_P1
 Ex
-Proect 1
+Project 1
